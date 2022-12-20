@@ -17,7 +17,7 @@ d) Check what words appeared the most in both positive and negative reviews.
 -- Basic handling of SQL and Pandas Techniques to gain insight onto the movie datasets.
 
 3) Tableau PROJECT
--- Interactive dashboard to see the total sales, total profits, each subcategory sales and profits, top and bottom N sales by states.
+a) Samples Superstore dataset -- Interactive dashboard to see the total sales, total profits, each subcategory sales and profits, top and bottom N sales by states.
    Please enter N (an integer value) to see the top N and bottom N states ranked by sales. 
    The dashboard is interactive and can be filtered by years.
-
+b) Telco Churn Dataset - These are the visualizations of churn dataset. There are many variables. Therefore, I created an interactive drop down menu to see the number of customers churned for each of the variables. 
